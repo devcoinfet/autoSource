@@ -17,6 +17,8 @@ sudo pip3 install requests
 
 
 #----------------------------------------------------------------------------------------------------------------------------------
+#elastic search can't be run by root so make another user adduser to the system no sudo privileges needed  so none of this but the depends
+#should be installed as root if any require sudo to install obv some will
 
 # Download the requirements for Ubuntu and other Linux devices
 sudo apt-get update
